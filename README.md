@@ -42,7 +42,7 @@ Key insights:
 
 ## 📈 Dashboard Preview
 You can view the complete dashboard in the attached PDF below:
-📄 [Open Dashboard PDF](hotel_bookings-clean_visualization2.pdf)
+📄 [Open Dashboard PDF](hotel_bookings_clean_visualization2.pdf)
 
 
 ---
@@ -52,7 +52,7 @@ You can view the complete dashboard in the attached PDF below:
 > Please **download and open it in Microsoft Excel** to preserve interactivity (PivotTables, Slicers, and Timelines).
 
 🔹 [Download via Google Drive](https://docs.google.com/spreadsheets/d/10wrhefcdP9YjfTjd4hTAAN2NvWxROq60/edit?usp=sharing&ouid=109060953456412508653&rtpof=true&sd=true)
-🔹 [Download Excel File (this repository)](hotel_bookings-clean_visualization_lite.xlsx)
+🔹 [Download Excel File (this repository)](hotel_bookings_clean_visualization_lite.xlsx)
 
 ---
 
